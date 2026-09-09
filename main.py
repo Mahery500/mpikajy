@@ -1,3 +1,6 @@
+from fampitomboana import fampitomboana
+from fanalana import fanalana
+
 print("Mpikajy")
 
 print("Misafidy ny asa tianao atao:")
